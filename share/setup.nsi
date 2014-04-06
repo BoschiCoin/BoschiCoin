@@ -5,7 +5,7 @@ SetCompressor /SOLID lzma
 
 # General Symbol Definitions
 !define REGKEY "SOFTWARE\$(^Name)"
-!define VERSION 0.0.2
+!define VERSION 0.0.3
 !define COMPANY "BoschiCoin project"
 !define URL http://www.getboschicoin.com/
 
